@@ -1,0 +1,377 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.pre-header {
+
+background-color: black;
+height: 66px;
+color:white;
+}
+
+.pre-header .main-menu a {
+color: gray;
+
+}
+.pre-header .main-menu li {
+    list-style: none;
+    display: inline-block;
+    margin-left: 15px;
+    text-transform: uppercase;
+}
+.main-menu1 .main-menu2 li {
+list-style: none;
+margin-left: 15px;
+    display: inline-block;
+    text-transform: uppercase;
+
+}
+.main-menu1 .main-menu2 li a {
+    color: gray;
+}
+.main-menu1 .main-menu2 .free-quote {
+    color: white;
+    background-color: purple;
+    border: purple;
+    margin: 23px;
+    padding: 8px;
+}
+.main-menu1 .main-menu2 .free-quote:hover {
+
+color: purple;
+background-color: white;
+
+text-decoration: none;
+transition: 0.5s;
+}
+.hero {
+    background-image: url('../img/HERO.jpg');
+    height: 600px;
+}
+.hero .text {
+    color: white;
+    padding-top: 200px;
+}
+.main-menu1 {
+    padding-top: 20px;
+}
+.main-menu1 .logo {
+padding-bottom: 40px;
+
+}
+.hero .text .main-menu3 .free-quote1 {
+
+list-style: none;
+background-color: purple;
+border: purple;
+color: white;
+padding: 10px;
+
+}
+.hero .text .main-menu3 .free-quote1:hover {
+
+color: purple;
+border: purple;
+background-color: white;
+transition: 0.5s;
+
+}
+
+.macip {
+
+background-color: gray;
+
+}
+
+.macip .wer {
+    text-align: center;
+
+color: royalblue;
+
+
+}
+.macip .pre-header7 {
+color: black;
+
+
+}
+.macip .main-menu345 {
+
+background-image: url('../img/kancelarija.jpg');
+height: 350px;
+width: 680px;
+text-align: center;
+color: white;
+margin: 400px;
+margin-top: 100px;
+
+
+}
+.macip .text12 {
+
+    background-color: blue;
+    height: 20px;
+    text-transform: uppercase;
+}
+.macip .main-menu346  {
+    color: white;
+    background-color: purple;
+    border: purple;
+    margin: 23px;
+    padding: 8px;
+
+
+}
+.macip .main-menu346:hover {
+
+background-color: white;
+color: purple;
+transition: 1.0s;
+}
+.strana1 .ourservices {
+text-align: center;
+color: blue;
+
+}
+.strana1 h1 {
+    color: black;
+    text-align: center;
+}
+.strana1 .p {
+    color: gray;
+    text-align: center;
+}
+.strana1 .main-123 {
+background-color: gray;
+
+}
+.strana1 .main-123 p {
+    text-align: center;
+}
+.strana1 .main-123 h1 {
+color: black;
+
+}
+.strana1 .main-123 li  {
+text-align: center;
+list-style: none;
+
+
+}
+.strana1 .main-123 a {
+    color: white;
+}
+
+
+
+.strana1 .main-123:hover {
+ background-color: purple;
+
+  
+transition: 1s;
+    padding-right: 20px;
+    margin-top: -20px;
+}
+.strana2 {
+
+background-image: url('../img/pozadina.jpg');
+height: 600px;
+
+}
+.strana3 p {
+color: black;
+
+}
+.strana3 {
+
+width: 1050px;    
+}
+.strana3 .rower img {
+
+animation: normal;
+}
+.strana4 {
+ 
+    background-image: url('../img/slika-pozadina.jpg');
+    height: 700px;
+
+
+}
+.strana4 .text20  {
+
+color: white;
+text-align: center;
+}
+.strana4 .red-slika1 p {
+
+color: white;
+
+}
+.strana4 .main-menu987  {
+
+text-align: right;
+
+
+}
+.strana4 .main-menu987 .submit {
+
+background-color: purple;
+
+border: none;
+padding: 9px;
+list-style: none;
+color: white;
+}
+.strana4 .main-menu987 .submit:hover {
+
+
+background-color: white;
+border: black 3px;
+color: purple;
+transition: 2s;
+
+}
+.strana5 p {
+
+color: blue;
+text-align: center;
+
+
+}
+.strana5 h1  {
+    
+text-align: center;
+color: black;
+
+
+}
+.strana5 .main-menu000 {
+
+background-color: gray;
+height: 300px;
+text-align: center;
+
+
+}
+.strana5 .main-menu000 li a  {
+    
+
+    color: white;
+    background-color: purple;
+    border: purple;
+list-style: none;
+    padding: 8px;
+
+}
+.strana5 .main-menu000 li {
+
+list-style: none;
+
+}
+.strana5 .main-menu000:hover {
+
+
+background-color: purple;
+margin-top: -20px;
+transition: 1s;
+
+}
+.strana5 .main-menu000 li a:hover {
+
+background-color: white;
+color: purple;
+border: purple;
+transition: 1s;
+}
+.strana6 .img098 {
+
+background-image: url('../img/pozadina1.jpg');
+
+height: 500px;
+text-align: center;
+color: white;
+}
+.strana6 .img098  a {
+
+list-style: none;
+border: 2px white; 
+
+}
+.strana6 .img098 li a {
+
+    color: white;
+    background-color: purple;
+    border: purple;
+list-style: none;
+    padding: 10px;
+
+}
+.strana6 .img098 li a:hover {
+
+    color: purple;
+    background-color: white;
+
+transition: 1s;
+list-style: none;
+
+
+}
+
+.strana6 .img098 li  {
+list-style: none;
+margin-top: 50px;
+
+}
+.strana7 .main li a {
+color: black;
+
+}
+.strana7 .main li {
+
+list-style: none;
+
+}
+.finished .black {
+    background-color: black;
+    height: 79px;
+
+}
+.finished h4 {
+color: white;
+
+}
+.finished li {
+
+display: inline-block;
+margin-right: 5px;
+list-style: none;
+
+}
+.finished a {
+color: white;
+
+
+}
+.img0 {
+
+text-align: center;
+background-color: gray;
+
+}
+
+.red-1 li a {
+
+   
+    text-transform: uppercase;
+ 
+     color: gray;
+
+}
+.red-1 li {
+
+    display: inline-block;
+    margin-left: 6px;
+
+}
